@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>轻量 PDF 编辑器</title>
+  <rect width="64" height="64" rx="14" fill="#ff5a5f" />
+  <path d="M19 12h20l10 10v28a4 4 0 0 1-4 4H19a4 4 0 0 1-4-4V16a4 4 0 0 1 4-4Z" fill="#fff" />
+  <path d="M39 12v10h10Z" fill="#ffc7c4" />
+  <path d="M24 34h16M24 42h12" fill="none" stroke="#d83e44" stroke-linecap="round" stroke-width="3.5" />
+</svg>
